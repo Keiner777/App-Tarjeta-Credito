@@ -1,0 +1,10 @@
+.far {
+    cursor: pointer;
+    margin-right: 7px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Potta One', cursive;
+}
